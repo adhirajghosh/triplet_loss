@@ -1,0 +1,13 @@
+opencv-python==3.4.2.16
+scikit-learn
+Keras
+glob3
+pandas
+Pillow==2.2.2
+matplotlib
+requests==2.20.0
+torch
+torchvision==0.1.8
+argparse
+future
+tensorflow
